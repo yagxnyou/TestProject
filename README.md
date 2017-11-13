@@ -28,8 +28,8 @@
 
 ## 开发
 ```bash
-    # 克隆代码
-    git clone https://github.com/lss5270/vue-admin-spa.git
+    # 克隆代码(用SSH进行克隆 从帐户使用SSH密钥和密码。)
+    git clone git@github.com:yagxnyou/TestProject.git
     # 安装依赖
     npm install
     #or 直接解压node_modules.7z到当前位置 （比较适合新手）。
